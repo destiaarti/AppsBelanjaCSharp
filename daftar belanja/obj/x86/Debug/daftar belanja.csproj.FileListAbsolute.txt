@@ -1,0 +1,70 @@
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form1.resources
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Baju.resources
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.kacamata.resources
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Properties.Resources.resources
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csproj.GenerateResource.Cache
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.data.resources
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.sepatu.resources
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.tas.resources
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\bin\Debug\daftar belanja.exe
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\bin\Debug\daftar belanja.pdb
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.exe
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.pdb
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form2.resources
+C:\Users\ASUSPC\Documents\Visual Studio 2010\Projects\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form4.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.exe
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.pdb
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form1.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Baju.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.data.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form2.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form4.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.sepatu.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.tas.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.kacamata.resources
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csproj.GenerateResource.Cache
+H:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csprojResolveAssemblyReference.cache
+H:\daftar belanja\daftar belanja\bin\Debug\daftar belanja.exe
+H:\daftar belanja\daftar belanja\bin\Debug\daftar belanja.pdb
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.exe
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.pdb
+I:\daftar belanja\daftar belanja\bin\Debug\daftar belanja.exe
+I:\daftar belanja\daftar belanja\bin\Debug\daftar belanja.pdb
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csprojResolveAssemblyReference.cache
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form1.resources
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Baju.resources
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.data.resources
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form2.resources
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.sepatu.resources
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.tas.resources
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.kacamata.resources
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csproj.GenerateResource.Cache
+I:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Properties.Resources.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.exe
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.pdb
+D:\daftar belanja\daftar belanja\bin\Debug\daftar belanja.exe
+D:\daftar belanja\daftar belanja\bin\Debug\daftar belanja.pdb
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csprojResolveAssemblyReference.cache
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form1.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Baju.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.data.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form2.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Properties.Resources.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.sepatu.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.tas.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.kacamata.resources
+D:\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csproj.GenerateResource.Cache
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.exe
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.pdb
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\bin\Debug\daftar belanja.exe
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\bin\Debug\daftar belanja.pdb
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csprojResolveAssemblyReference.cache
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form1.resources
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Baju.resources
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.data.resources
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Form2.resources
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.Properties.Resources.resources
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.sepatu.resources
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.tas.resources
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar_belanja.kacamata.resources
+E:\New folder\PRINCESS\daftar belanja\daftar belanja\obj\x86\Debug\daftar belanja.csproj.GenerateResource.Cache
